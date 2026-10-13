@@ -62,16 +62,3 @@ MATLABÂ® is used throughout. Tools from Statistics and Machine Learning Toolboxâ
 | <img src="Images/image_5.png" width="371" alt="image_5.png"> <br>  | **In these scripts, students will...** <br> $\bullet$ Expand on the practical problem presented in [LoadForecastRegression.mlx](Scripts/LoadForecastRegression.mlx) <br> $\bullet$ Define feature engineering/extraction <br> $\bullet$ Identify and use different machine learning models commonly used for regression <br> $\bullet$ Be able to explain overfitting and underfitting <br>   |
 |      |       |
 
-# Related Courseware Modules
-## [**Regression Basics**](https://www.mathworks.com/matlabcentral/fileexchange/93435-regression-basics)
-|      |      |
-| :-- | :-- |
-| <img src="Images/image_6.png" width="171" alt="image_6.png"> <br>  | **Available on:** <br> [<img src="Images/image_7.png" width="129" alt="image_7.png">](https://www.mathworks.com/matlabcentral/fileexchange/93435-regression-basics) <br> [<img src="Images/image_8.png" width="130" alt="image_8.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Regression-Basics&project=RegressionBasics.prj) <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Regression-Basics) <br>   |
-|      |       |
-
-## [**Machine Learning Methods: Clustering**](https://www.mathworks.com/matlabcentral/fileexchange/135381-machine-learning-methods-clustering)
-|      |      |
-| :-- | :-- |
-| <img src="Images/image_9.png" width="171" alt="image_9.png"> <br>  | **Available on:** <br> [<img src="Images/image_10.png" width="129" alt="image_10.png">](https://www.mathworks.com/matlabcentral/fileexchange/135381-machine-learning-methods-clustering) <br> [<img src="Images/image_11.png" width="130" alt="image_11.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering&project=MLMethodsClustering.prj) <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering) <br>   |
-|      |       |
-
